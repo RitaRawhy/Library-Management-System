@@ -22,3 +22,17 @@ C:\Users\rita rawhy\OneDrive\Desktop\Library_Managemet_System\Library_Management
 C:\Users\rita rawhy\OneDrive\Desktop\Library_Managemet_System\Library_Management_System\LibrarySolution\Domain\obj\Debug\net6.0\refint\Domain.dll
 C:\Users\rita rawhy\OneDrive\Desktop\Library_Managemet_System\Library_Management_System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.pdb
 C:\Users\rita rawhy\OneDrive\Desktop\Library_Managemet_System\Library_Management_System\LibrarySolution\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\bin\Debug\net6.0\Domain.dll
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.dll
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
+D:\Training\Library Project\Library-Management-System\LibrarySolution\Domain\obj\Debug\net6.0\ref\Domain.dll

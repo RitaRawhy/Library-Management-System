@@ -1,5 +1,7 @@
 ﻿using Application.Interfaces;
 using Domain.Entities;
+using Microsoft.EntityFrameworkCore;
+using Persistence.Context;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,6 +13,13 @@ namespace Persistence.Repositories
 {
     public class GenericRepository<T> : IGenericRepository<T> where T : BaseEntity
     {
+        private readonly LibraryDbContext _context;
+
+        protected GenericRepository(LibraryDbContext context)
+        {
+            _context = context;
+        }
+
         public Task<List<T>> GetAllAsync()
         {
             throw new NotImplementedException();
@@ -21,9 +30,9 @@ namespace Persistence.Repositories
             throw new NotImplementedException();
         }
 
-        public Task<T> GetByIdAsync(int id)
+        public async Task<T> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _context.Set<T>().FindAsync(id);
         }
     }
 }

@@ -8,6 +8,11 @@ namespace Domain.Entities
 {
     public class Book : BaseEntity
     {
-        public string Name { get; set; }
+        public int BookId { get; set; }
+        public string BookTitle { get; set; }
+        public int Quantity { get; set; }
+        public int Author_Id { get; set; }
+        public int Publisher_Id { get; set; }
+        public float Price { get; set; }
     }
 }

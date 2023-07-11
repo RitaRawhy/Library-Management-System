@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {}
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\obj\\",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj"
+              "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\obj\\",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

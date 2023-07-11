@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj": {}
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\obj\\",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj"
+              "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj"
               }
             }
           }
@@ -75,21 +75,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Domain\\obj\\",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -146,21 +146,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj": {
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
-        "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\obj\\",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -174,8 +174,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj"
+              "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
+                "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj"
+              },
+              "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj": {
+                "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj"
               }
             }
           }
@@ -221,7 +224,82 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj",
+        "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+        "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
+                "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.19, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.19, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

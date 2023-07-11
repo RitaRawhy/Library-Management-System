@@ -811,6 +811,21 @@
         "runtime": {
           "bin/placeholder/Domain.dll": {}
         }
+      },
+      "Persistence/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "Application": "1.0.0",
+          "Microsoft.EntityFrameworkCore": "6.0.19",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.19"
+        },
+        "compile": {
+          "bin/placeholder/Persistence.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Persistence.dll": {}
+        }
       }
     }
   },
@@ -2042,6 +2057,11 @@
       "type": "project",
       "path": "../Domain/Domain.csproj",
       "msbuildProject": "../Domain/Domain.csproj"
+    },
+    "Persistence/1.0.0": {
+      "type": "project",
+      "path": "../Persistence/Persistence.csproj",
+      "msbuildProject": "../Persistence/Persistence.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2049,23 +2069,24 @@
       "Application >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 6.0.19",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.19",
-      "Microsoft.EntityFrameworkCore.Tools >= 6.0.19"
+      "Microsoft.EntityFrameworkCore.Tools >= 6.0.19",
+      "Persistence >= 1.0.0"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rita rawhy\\.nuget\\packages\\": {}
+    "C:\\Users\\Rawan\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\rita rawhy\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Infrastructure\\obj\\",
+      "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Rawan\\.nuget\\packages\\",
+      "outputPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\rita rawhy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Rawan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -2079,8 +2100,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\rita rawhy\\OneDrive\\Desktop\\LibraryManagementSystem\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj"
+            "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj": {
+              "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Application\\Application.csproj"
+            },
+            "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj": {
+              "projectPath": "D:\\Training\\Library Project\\Library-Management-System\\LibrarySolution\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -2126,7 +2150,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
